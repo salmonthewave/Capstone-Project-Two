@@ -1,0 +1,28 @@
+body {
+    background-color: #FFCC70;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0px;
+    font-size: 2rem;
+}
+
+.water {
+    color: #22668D;
+}
+
+#profile {
+    border-radius: 60%;
+    height: 500px;
+    width: 500px;
+}
+
+#my-name {
+    font-size: 2.2rem;
+}
+
+#projects {
+    background-color: whitesmoke;
+}
