@@ -26,3 +26,10 @@ ul {
 #projects {
     background-color: whitesmoke;
 }
+
+@media (max-width: 900px) {
+{ #profile {
+    height: 100px;
+    width: 100px
+}
+}
